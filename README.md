@@ -2,7 +2,7 @@
 #### Hakkımda
 Sakarya Üniversitesi | Görsel İletişim Tasarımı bölümü öğrencisiyim, daha çok UI/UX alanında çalışmalar yapıyorum kendimi geliştirmek ve yaptığım tasarımların çıktısını kendim de almak için kodlama öğrenmeye başladım yaptığım projeler ile kendimi geliştirmeye ve sizlere sunmayı planlıyorum 
 
-Skills: Figma / REACT / JS / HTML / CSS / Kotlin / Flutter
+Skills: Figma / JS / HTML / CSS 
 
 - 🔭 I’m currently working on Landing Page and Coding 
 
